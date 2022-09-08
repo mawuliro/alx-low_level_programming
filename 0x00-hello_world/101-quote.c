@@ -1,7 +1,7 @@
-#include <stdio.h>
+#include <unistd.h>
 /**
- * main is the entry of the program
- * this program is gonna print out and that piece of art is useful
+ * main-program entry point
+ *
  * Return : 1 on success
  */
 int main(void)
