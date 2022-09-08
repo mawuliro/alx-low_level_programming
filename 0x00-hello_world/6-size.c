@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
- * main is the entry point of the program
- * Return: returns zero if no error
+ * main-entry point
  *
- * this program print out the size of char, int and float
+ * Return : zero if no errors, returns non-zero if errors
  */
 int main(void)
 {
