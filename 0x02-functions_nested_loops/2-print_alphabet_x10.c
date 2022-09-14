@@ -16,7 +16,7 @@ void print_alphabet_x10(void)
 	{
 		while (alfa <= 'z')
 		{
-			write(1, $alfa, 1);
+			write(1, &alfa, 1);
 			alfa++;
 		}
 		write(1, "\n", 1);
