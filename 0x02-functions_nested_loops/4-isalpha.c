@@ -21,7 +21,7 @@ int _isalpha(int c)
 	}
 	else
 	{
-		alpha= 0;
+		alpha = 0;
 	}
 	return (alpha);
 }
