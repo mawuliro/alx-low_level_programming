@@ -1,4 +1,5 @@
 #include "main.h"
+
  /**
   * print_diagonal - this function prints a diagonal line on the terminal
   *
