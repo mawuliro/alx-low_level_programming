@@ -1,10 +1,10 @@
 #include "main.h"
 
- /**
-  * print_diagonal - this function prints a diagonal line on the terminal
-  *
-  * Return: 0 Always success
-  */
+/**
+ * print_diagonal - this function prints a diagonal line on the terminal
+ *
+ * Return: 0 Always success
+ */
 void print_diagonal(int n)
 {
 	int spaces = 0;
