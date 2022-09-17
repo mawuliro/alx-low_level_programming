@@ -1,8 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - this program prints numbers from 0 to 100, for the moltiples of 3 it prints fizz instead of the number
- * for the multiples of 5 it prints buzz, for the multiples of both 3 and 5 it prints fizzbuzz
+ * main - this program prints numbers from 0 to 100, for
+ * the moltiples of 3 it prints fizz instead of the number
+ * for the multiples of 5 it prints buzz, for the multiples
+ * of both 3 and 5 it prints fizzbuzz
  * Return: 0 (Success)
  */
 int main(void)
