@@ -2,13 +2,14 @@
 
 /**
  * print_triangle - this function prints a triangle on the terminal
- *
+ * @size: value
  * Return: 0 (success)
  */
 
 void print_triangle(int size)
 {
-	int i, j;
+	int i;
+	int j;
 
 	for ( i = 0; i < size; i++)
 	{
