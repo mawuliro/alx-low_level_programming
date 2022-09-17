@@ -7,21 +7,18 @@
  */
 void print_square(int size)
 {
-	int columns = 0;
-	int rows = 0;
+	int x;
+	int y;
 
-	if (size > 0);
+	for (y = 0; y < size; y++)
 	{
-		while (rows < size)
+		for (x = 0; x < size; x++)
 		{
-			_putchar('#');
-			rows++;
+			-putchar('#');
 		}
 		_putchar('\n');
-		rows = 0;
-		columns++;
 	}
-	else
+	if (n <= 0)
 	{
 		_putchar('\n');
 	}
