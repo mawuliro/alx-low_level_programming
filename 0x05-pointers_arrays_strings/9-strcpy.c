@@ -6,7 +6,7 @@
  * @dest: destination array
  * @src: source array
  *
- * return: Pointer to destination array
+ * Return: Pointer to destination array
  */
 
 char *_strcpy(char *dest, char *src)
