@@ -1,6 +1,8 @@
 #include "main.h"
 #include <stdio.h>
 
+void print_string(char *str);
+
 /**
  * main - Prints its name
  *
